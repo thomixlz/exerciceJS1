@@ -1,0 +1,104 @@
+* {
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background: black;
+}
+
+
+/* EXO 1 */ 
+
+h1 {
+    text-align: center;
+}
+
+.formulaire {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+
+.exo1{
+    width:400px;
+    margin:0 auto;
+    margin-top: 15%;
+}
+
+.motDePasse, .nom {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.login {
+    background-color: #53a1af;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.login:hover {
+    background-color: white;
+    color: #53a1af;
+    border: 1px solid #53a1af;
+}
+
+.non {
+    display: none;
+}
+
+
+.connect{
+    width:400px;
+    margin:0 auto;
+    margin-top: 15%;
+    display: none;
+}
+
+.zoneform {
+    width:100%;
+    padding: 30px;
+    border: 1px solid #f1f1f1;
+    background: #fff;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24)
+}
+
+/* EXO 2 */ 
+
+.container {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+
+.image {
+    height: 500px;
+    width: 500px;
+    
+}
+
+img {
+    height: 500px;
+    width: 500px;
+    
+}
+
+.container2 {
+    background-color: red;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 200px;
+}
+
+
